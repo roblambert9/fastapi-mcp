@@ -1,0 +1,29 @@
+{
+  "name": "@roblambert9/fastapi-mcp",
+  "version": "1.0.0",
+  "description": "FastAPI automatic MCP server generation from OpenAPI specs with autonomous x402 pay-per-call rails. Wrapped with @monetize x402 rails.",
+  "main": "server.py",
+  "bin": {
+    "fastapi-mcp": "server.py"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "@monetize",
+    "x402",
+    "solana",
+    "usdc",
+    "ai-agents",
+    "nanoempire",
+    "fastapi",
+    "openapi",
+    "rest",
+    "api"
+  ],
+  "author": "Rob Lambert <roblambert9@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/roblambert9/fastapi-mcp.git"
+  }
+}

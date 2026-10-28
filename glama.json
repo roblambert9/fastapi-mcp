@@ -1,0 +1,8 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "name": "fastapi-mcp",
+  "description": "FastAPI automatic MCP server generation from OpenAPI specs with autonomous x402 pay-per-call rails.",
+  "maintainers": [
+    "roblambert9"
+  ]
+}
